@@ -5,7 +5,7 @@ atomicwrites==1.1.5
 attrs==18.1.0
 Babel==2.5.3
 backports.weakref==1.0rc1
-bleach==1.5.0
+bleach==3.1.4
 certifi==2018.4.16
 cffi==1.11.4
 chardet==3.0.4
