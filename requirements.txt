@@ -102,7 +102,7 @@ smokesignal==0.7.0
 snowballstemmer==1.2.1
 Sphinx==1.6.6
 sphinxcontrib-websupport==1.0.1
-tensorflow==1.2.0
+tensorflow==2.5.1
 tensorflow-gpu==1.2.0
 tensorflow-tensorboard==0.4.0
 testpath==0.3.1
